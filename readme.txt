@@ -13,6 +13,12 @@ Adds a checkbox on checkout page for your customers to subscribe to your MailPoe
 
 This simple plugin adds a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters.
 
+== Installation ==
+
+1. Upload `mailpoet-woocommerce-addon/mailpoet-woocommerce-addon.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Setup the plugin following the instructions below.
+
 Simply config this plugin under WooCommerce settings in the MailPoet tab. The settings are in two sections. 'General | Newsletters'
 
 Under 'General' simply enable the checkbox field to show on the checkout page.
@@ -22,12 +28,6 @@ You can also change the label of the checkbox. Default 'Yes, add me to your mail
 Next is 'Newsletters'. Each list you created in MailPoet that you have enabled to send to is listed here. Simply tick the checkbox next to the Newsletter list your customers will be subscribed to and press 'Save Changes'.
 
 That's it, now when your customers tick the subscribe button on the checkout page, they will be subscribed to the newsletters you selected when processing an order.
-
-== Installation ==
-
-1. Upload `mailpoet-woocommerce-addon/mailpoet-woocommerce-addon.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Setup the plugin under WooCommerce settings under the MailPoet tab.
 
 == Screenshots ==
 
