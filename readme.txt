@@ -2,7 +2,7 @@
 Contributors: wysija, sebd86
 Tags: mailpoet, wysija, woocommerce, sebs studio, extension, add-on
 Requires at least: 3.7.1
-Tested up to: 3.8.1
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -88,6 +88,10 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 No, we haven't designed the plugin to give the shop manager that option. The checkbox field is after the billing and shipping fields near the submit button.
 
 == Changelog ==
+
+= 2.0.2 - 14/02/2015 =
+
+* fixed Fatal error conflict with WooCommerce 2.3.3
 
 = 2.0.1 - 25/03/2014 =
 
