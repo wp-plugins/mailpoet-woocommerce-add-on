@@ -21,7 +21,7 @@ If you would like to translate the plugin, you can do so via [Transifex](https:/
 
 = Support =
 
-Support for MailPoet and it's extensions is provided at support.mailpoet.com
+Support for MailPoet and it's extensions is provided at [support.mailpoet.com](support.mailpoet.com)
 
 == Installation ==
 
@@ -77,7 +77,7 @@ A2. Once MailPoet 3.0 is available we will be working on re-writing this extensi
 == Changelog ==
 
 = v2.0.2 - 14/02/2015 =
-* Fixed fatal error conflict with WooCommerce 2.3.3
+* Fixed fatal error conflict with WooCommerce v2.3.3
 
 = v2.0.1 - 25/03/2014 =
 * Added - Arabic language.
@@ -105,5 +105,10 @@ A2. Once MailPoet 3.0 is available we will be working on re-writing this extensi
 * Added - Turkish language.
 * Updated - ReadMe file.
 
-= 1.0.0 - 20/12/2013 =
+= v1.0.0 - 20/12/2013 =
 * Initial Version.
+
+== Upgrade Notice ==
+
+= v2.0.2 - 14/02/2015 =
+* Fixed fatal error conflict with WooCommerce v2.3.3
